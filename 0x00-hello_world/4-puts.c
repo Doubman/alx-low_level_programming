@@ -1,11 +1,10 @@
 #include<stdio.h>
 /**
- * main - Entry point
- * 
- * Description: 'outputs a string value'
- * 
- * Return: Always 0 (Success)
- */
+*main - Entry point
+*
+*Description: 'outputs a string value'
+*Return: Always 0 (Success)
+*/
 int main(void)
 {
 /* firstString - contains string value */
