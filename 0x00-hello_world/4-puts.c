@@ -3,11 +3,9 @@
  * main - Entry point
  * 
  * Description: 'outputs a string value'
- * @parameter: char string
  * 
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 /* firstString - contains string value */

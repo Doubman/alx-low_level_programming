@@ -1,10 +1,7 @@
 #include<stdio.h>
 /**
- * main - Entry point
- * 
+ * main - Entry point 
  * Description: 'Script to print a string'
- * @parameters: No parameters
- * 
  * Return: Always 0 (Success)
  */
 int main(void)
