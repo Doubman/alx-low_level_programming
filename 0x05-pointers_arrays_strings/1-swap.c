@@ -3,11 +3,12 @@
 /**
  *
  *
- * swap_int - function that swaps the value of two intergers.
- * a = int1
- * b = int2
+ *swap_int - function that swaps the value 
+ *of two intergers.
+ *a = int1
+ *b = int2
  *
- * Return - int.
+ *Return - int.
  */
 
 void swap_int(int *a, int *b)
